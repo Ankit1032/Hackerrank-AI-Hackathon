@@ -1,0 +1,17 @@
+# Core LLM framework
+openai>=1.30.0
+langchain>=0.2.0
+langchain-openai>=0.1.8
+langchain-core>=0.2.0
+langgraph>=0.1.5
+
+# Vector search
+faiss-cpu>=1.7.4
+numpy>=1.26.0
+
+# Data handling
+pandas>=2.0.0
+
+# Utilities
+python-dotenv>=1.0.0
+tqdm>=4.66.0
